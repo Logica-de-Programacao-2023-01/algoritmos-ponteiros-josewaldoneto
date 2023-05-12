@@ -46,7 +46,7 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build Ponteiros4.go">
+  <component name="RunManager" selected="Go Build.go build Ponteiros5.go">
     <configuration name="go build Ponteiros1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-ponteiros-josewaldoneto" />
       <working_directory value="$PROJECT_DIR$" />
@@ -79,8 +79,17 @@
       <filePath value="$PROJECT_DIR$/Ponteiros4.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Ponteiros5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-ponteiros-josewaldoneto" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Ponteiros5.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build Ponteiros5.go" />
         <item itemvalue="Go Build.go build Ponteiros4.go" />
         <item itemvalue="Go Build.go build Ponteiros3.go" />
         <item itemvalue="Go Build.go build Ponteiros1.go" />
